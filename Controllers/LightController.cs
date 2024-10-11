@@ -6,12 +6,12 @@ namespace RaspApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class ActivateController : ControllerBase
+    public class LightController : ControllerBase
     {
         private PiService _piService;
-        private readonly ILogger<ActivateController> _logger;
+        private readonly ILogger<LightController> _logger;
 
-        public ActivateController(ILogger<ActivateController> logger)
+        public LightController(ILogger<LightController> logger)
         {
             _piService = new PiService();
             _logger = logger;
