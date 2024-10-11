@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspApi", "RaspApi.csproj", "{35083C44-BB03-4DBA-BF5B-A1C317E0A98D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35083C44-BB03-4DBA-BF5B-A1C317E0A98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35083C44-BB03-4DBA-BF5B-A1C317E0A98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35083C44-BB03-4DBA-BF5B-A1C317E0A98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35083C44-BB03-4DBA-BF5B-A1C317E0A98D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F00D368D-25DC-46CA-84DD-F69015509E13}
+	EndGlobalSection
+EndGlobal

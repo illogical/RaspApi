@@ -1,0 +1,6 @@
+@RaspApi_HostAddress = http://localhost:5196
+
+GET {{RaspApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
